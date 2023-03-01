@@ -1,18 +1,3 @@
 {
-  "results": [
-    {
-			"organization": "Organization 1",
-			"city": "HOWARD BEACH",
-			"state": "DC",
-			"crs-ein": "1436689150A1",
-			"uei": "7BD2687CUA26"
-		},
-		{
-			"organization": "AGENTS MICROSERVICES HOSPITAL",
-			"city": "Sterling",
-			"state": "VA",
-			"crs-ein": "1153245547A1",
-			"uei": "1ACD0B5DUD5F"
-		}
-    ]
+
 }
